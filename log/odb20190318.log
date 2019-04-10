@@ -1,0 +1,1253 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 00:26:36 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 6268@LAPTOP-23DDAC9C
+
+[2019-03-18 00:26:36 #2 store] 
+Configuration path: ?
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 00:27:48 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' has been recovered (tr. 1-2)
+
+[2019-03-18 00:27:48 #2 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 7424@LAPTOP-23DDAC9C
+
+[2019-03-18 00:27:48 #3 store] 
+Configuration path: ?
+
+[2019-03-18 00:28:14 #4 type.registry] 
+New type entidades.Cliente
+
+[2019-03-18 00:28:14 #5 type] 
+Type entidades.Cliente is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 00:31:24 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 4008@LAPTOP-23DDAC9C
+
+[2019-03-18 00:31:24 #2 store] 
+Configuration path: ?
+
+[2019-03-18 00:31:24 #3 type] 
+Type entidades.Cliente is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 00:32:09 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 11852@LAPTOP-23DDAC9C
+
+[2019-03-18 00:32:09 #2 store] 
+Configuration path: ?
+
+[2019-03-18 00:32:09 #3 type] 
+Type entidades.Cliente is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 00:34:15 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' has been recovered (tr. 5-5)
+
+[2019-03-18 00:34:15 #2 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 8664@LAPTOP-23DDAC9C
+
+[2019-03-18 00:34:15 #3 store] 
+Configuration path: ?
+
+[2019-03-18 00:34:15 #4 type] 
+Type entidades.Cliente is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 00:37:16 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 10192@LAPTOP-23DDAC9C
+
+[2019-03-18 00:37:16 #2 store] 
+Configuration path: ?
+
+[2019-03-18 00:37:17 #3 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 00:41:10 #4 type.registry] 
+New type entidades.Vendedor
+
+[2019-03-18 00:41:10 #5 type] 
+Type entidades.Vendedor is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 00:50:07 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' has been recovered (tr. 6-6)
+
+[2019-03-18 00:50:08 #2 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 12296@LAPTOP-23DDAC9C
+
+[2019-03-18 00:50:08 #3 store] 
+Configuration path: ?
+
+[2019-03-18 00:50:08 #4 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 00:50:08 #5 type] 
+Type entidades.Vendedor is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 01:10:59 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 2912@LAPTOP-23DDAC9C
+
+[2019-03-18 01:10:59 #2 store] 
+Configuration path: ?
+
+[2019-03-18 01:10:59 #3 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 01:10:59 #4 type] 
+Type entidades.Vendedor is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 01:14:44 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 8252@LAPTOP-23DDAC9C
+
+[2019-03-18 01:14:44 #2 store] 
+Configuration path: ?
+
+[2019-03-18 01:14:48 #3 type.registry] 
+New type entidades.Cliente
+
+[2019-03-18 01:14:48 #4 type] 
+Type entidades.Cliente is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 01:15:06 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' has been recovered (tr. 1-3)
+
+[2019-03-18 01:15:06 #2 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 7504@LAPTOP-23DDAC9C
+
+[2019-03-18 01:15:06 #3 store] 
+Configuration path: ?
+
+[2019-03-18 01:15:06 #4 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 01:15:40 #5 type.registry] 
+New type entidades.Vendedor
+
+[2019-03-18 01:15:40 #6 type] 
+Type entidades.Vendedor is not enhanced.
+
+[2019-03-18 01:15:44 #7 type.registry] 
+New type entidades.Produto
+
+[2019-03-18 01:15:44 #8 type] 
+Type entidades.Produto is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 01:16:19 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' has been recovered (tr. 4-12)
+
+[2019-03-18 01:16:19 #2 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 4008@LAPTOP-23DDAC9C
+
+[2019-03-18 01:16:19 #3 store] 
+Configuration path: ?
+
+[2019-03-18 01:16:20 #4 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 01:16:20 #5 type] 
+Type entidades.Vendedor is not enhanced.
+
+[2019-03-18 01:16:20 #6 type] 
+Type entidades.Produto is not enhanced.
+
+[2019-03-18 01:16:56 #7 type.registry] 
+New type entidades.ItemVenda
+
+[2019-03-18 01:16:56 #8 type] 
+Type entidades.ItemVenda is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 01:17:49 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' has been recovered (tr. 13-17)
+
+[2019-03-18 01:17:50 #2 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 14028@LAPTOP-23DDAC9C
+
+[2019-03-18 01:17:50 #3 store] 
+Configuration path: ?
+
+[2019-03-18 01:17:50 #4 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 01:17:50 #5 type] 
+Type entidades.Vendedor is not enhanced.
+
+[2019-03-18 01:17:50 #6 type] 
+Type entidades.Produto is not enhanced.
+
+[2019-03-18 01:17:50 #7 type] 
+Type entidades.ItemVenda is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 01:19:23 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' has been recovered (tr. 18-18)
+
+[2019-03-18 01:19:23 #2 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 7316@LAPTOP-23DDAC9C
+
+[2019-03-18 01:19:23 #3 store] 
+Configuration path: ?
+
+[2019-03-18 01:19:23 #4 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 01:19:23 #5 type] 
+Type entidades.Vendedor is not enhanced.
+
+[2019-03-18 01:19:23 #6 type] 
+Type entidades.Produto is not enhanced.
+
+[2019-03-18 01:19:23 #7 type] 
+Type entidades.ItemVenda is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 01:26:52 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 2448@LAPTOP-23DDAC9C
+
+[2019-03-18 01:26:52 #2 store] 
+Configuration path: ?
+
+[2019-03-18 01:26:52 #3 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 01:26:52 #4 type] 
+Type entidades.Vendedor is not enhanced.
+
+[2019-03-18 01:26:52 #5 type] 
+Type entidades.Produto is not enhanced.
+
+[2019-03-18 01:26:52 #6 type] 
+Type entidades.ItemVenda is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 01:27:54 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 7080@LAPTOP-23DDAC9C
+
+[2019-03-18 01:27:54 #2 store] 
+Configuration path: ?
+
+[2019-03-18 01:27:57 #3 type.registry] 
+New type entidades.Produto
+
+[2019-03-18 01:27:57 #4 type] 
+Type entidades.Produto is not enhanced.
+
+[2019-03-18 01:27:57 #5 type.registry] 
+New type entidades.ItemVenda
+
+[2019-03-18 01:27:57 #6 type] 
+Type entidades.ItemVenda is not enhanced.
+
+[2019-03-18 01:27:57 #7 type.registry] 
+New type entidades.Cliente
+
+[2019-03-18 01:27:57 #8 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 01:27:57 #9 type.registry] 
+New type entidades.Vendedor
+
+[2019-03-18 01:27:57 #10 type] 
+Type entidades.Vendedor is not enhanced.
+
+[2019-03-18 01:27:57 #11 type.registry] 
+New type entidades.Venda
+
+[2019-03-18 01:27:57 #12 type] 
+Type entidades.Venda is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 01:28:10 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' has been recovered (tr. 1-12)
+
+[2019-03-18 01:28:10 #2 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 3264@LAPTOP-23DDAC9C
+
+[2019-03-18 01:28:10 #3 store] 
+Configuration path: ?
+
+[2019-03-18 01:28:11 #4 type] 
+Type entidades.Produto is not enhanced.
+
+[2019-03-18 01:28:11 #5 type] 
+Type entidades.ItemVenda is not enhanced.
+
+[2019-03-18 01:28:11 #6 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 01:28:11 #7 type] 
+Type entidades.Vendedor is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 01:30:45 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 5680@LAPTOP-23DDAC9C
+
+[2019-03-18 01:30:45 #2 store] 
+Configuration path: ?
+
+[2019-03-18 01:30:48 #3 type.registry] 
+New type entidades.Cliente
+
+[2019-03-18 01:30:48 #4 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 01:31:09 #5 type.registry] 
+New type entidades.Vendedor
+
+[2019-03-18 01:31:09 #6 type] 
+Type entidades.Vendedor is not enhanced.
+
+[2019-03-18 01:31:16 #7 type.registry] 
+New type entidades.Produto
+
+[2019-03-18 01:31:16 #8 type] 
+Type entidades.Produto is not enhanced.
+
+[2019-03-18 01:31:29 #9 type.registry] 
+New type entidades.ItemVenda
+
+[2019-03-18 01:31:29 #10 type] 
+Type entidades.ItemVenda is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 01:35:42 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' has been recovered (tr. 1-16)
+
+[2019-03-18 01:35:43 #2 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 5040@LAPTOP-23DDAC9C
+
+[2019-03-18 01:35:43 #3 store] 
+Configuration path: ?
+
+[2019-03-18 01:35:43 #4 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 01:35:43 #5 type] 
+Type entidades.Vendedor is not enhanced.
+
+[2019-03-18 01:35:43 #6 type] 
+Type entidades.Produto is not enhanced.
+
+[2019-03-18 01:35:43 #7 type] 
+Type entidades.ItemVenda is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 01:35:57 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' has been recovered (tr. 17-17)
+
+[2019-03-18 01:35:57 #2 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 3692@LAPTOP-23DDAC9C
+
+[2019-03-18 01:35:57 #3 store] 
+Configuration path: ?
+
+[2019-03-18 01:35:58 #4 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 01:35:58 #5 type] 
+Type entidades.Vendedor is not enhanced.
+
+[2019-03-18 01:35:58 #6 type] 
+Type entidades.Produto is not enhanced.
+
+[2019-03-18 01:35:58 #7 type] 
+Type entidades.ItemVenda is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 01:37:19 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' has been recovered (tr. 18-18)
+
+[2019-03-18 01:37:20 #2 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 6692@LAPTOP-23DDAC9C
+
+[2019-03-18 01:37:20 #3 store] 
+Configuration path: ?
+
+[2019-03-18 01:37:20 #4 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 01:37:20 #5 type] 
+Type entidades.Vendedor is not enhanced.
+
+[2019-03-18 01:37:20 #6 type] 
+Type entidades.Produto is not enhanced.
+
+[2019-03-18 01:37:20 #7 type] 
+Type entidades.ItemVenda is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 01:42:05 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' has been recovered (tr. 19-19)
+
+[2019-03-18 01:42:06 #2 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 7348@LAPTOP-23DDAC9C
+
+[2019-03-18 01:42:06 #3 store] 
+Configuration path: ?
+
+[2019-03-18 01:42:06 #4 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 01:42:06 #5 type] 
+Type entidades.Vendedor is not enhanced.
+
+[2019-03-18 01:42:06 #6 type] 
+Type entidades.Produto is not enhanced.
+
+[2019-03-18 01:42:06 #7 type] 
+Type entidades.ItemVenda is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 01:45:05 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 5644@LAPTOP-23DDAC9C
+
+[2019-03-18 01:45:05 #2 store] 
+Configuration path: ?
+
+[2019-03-18 01:45:17 #3 type.registry] 
+New type entidades.Produto
+
+[2019-03-18 01:45:17 #4 type] 
+Type entidades.Produto is not enhanced.
+
+[2019-03-18 01:45:21 #5 type.registry] 
+New type entidades.ItemVenda
+
+[2019-03-18 01:45:21 #6 type] 
+Type entidades.ItemVenda is not enhanced.
+
+[2019-03-18 01:45:21 #7 type.registry] 
+New type entidades.Cliente
+
+[2019-03-18 01:45:21 #8 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 01:45:21 #9 type.registry] 
+New type entidades.Vendedor
+
+[2019-03-18 01:45:21 #10 type] 
+Type entidades.Vendedor is not enhanced.
+
+[2019-03-18 01:45:21 #11 type.registry] 
+New type entidades.Venda
+
+[2019-03-18 01:45:21 #12 type] 
+Type entidades.Venda is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 01:46:07 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' has been recovered (tr. 1-17)
+
+[2019-03-18 01:46:07 #2 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 13964@LAPTOP-23DDAC9C
+
+[2019-03-18 01:46:07 #3 store] 
+Configuration path: ?
+
+[2019-03-18 01:46:07 #4 type] 
+Type entidades.Produto is not enhanced.
+
+[2019-03-18 01:46:07 #5 type] 
+Type entidades.ItemVenda is not enhanced.
+
+[2019-03-18 01:46:07 #6 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 01:46:07 #7 type] 
+Type entidades.Vendedor is not enhanced.
+
+[2019-03-18 01:46:16 #8 type.registry] 
+New type entidades.Venda
+
+[2019-03-18 01:46:16 #9 type] 
+Type entidades.Venda is not enhanced.
+
+[2019-03-18 01:46:16 #10 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2019-03-18 01:46:16 #11 type.registry] 
+New type java.util.LinkedList<entidades.ItemVenda>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 02:11:04 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 7252@LAPTOP-23DDAC9C
+
+[2019-03-18 02:11:04 #2 store] 
+Configuration path: ?
+
+[2019-03-18 02:11:09 #3 type.registry] 
+New type entidades.Produto
+
+[2019-03-18 02:11:09 #4 type] 
+Type entidades.Produto is not enhanced.
+
+[2019-03-18 02:11:34 #5 type.registry] 
+New type entidades.ItemVenda
+
+[2019-03-18 02:11:34 #6 type] 
+Type entidades.ItemVenda is not enhanced.
+
+[2019-03-18 02:11:34 #7 type.registry] 
+New type entidades.Cliente
+
+[2019-03-18 02:11:34 #8 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 02:11:34 #9 type.registry] 
+New type entidades.Vendedor
+
+[2019-03-18 02:11:34 #10 type] 
+Type entidades.Vendedor is not enhanced.
+
+[2019-03-18 02:11:34 #11 type.registry] 
+New type entidades.Venda
+
+[2019-03-18 02:11:34 #12 type] 
+Type entidades.Venda is not enhanced.
+
+[2019-03-18 02:11:34 #13 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2019-03-18 02:11:34 #14 type.registry] 
+New type java.util.LinkedList<entidades.ItemVenda>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 02:13:05 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' has been recovered (tr. 1-21)
+
+[2019-03-18 02:13:05 #2 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 16324@LAPTOP-23DDAC9C
+
+[2019-03-18 02:13:05 #3 store] 
+Configuration path: ?
+
+[2019-03-18 02:13:05 #4 type] 
+Type entidades.Produto is not enhanced.
+
+[2019-03-18 02:13:05 #5 type] 
+Type entidades.ItemVenda is not enhanced.
+
+[2019-03-18 02:13:05 #6 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 02:13:05 #7 type] 
+Type entidades.Vendedor is not enhanced.
+
+[2019-03-18 02:13:05 #8 type] 
+Type entidades.Venda is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 02:13:31 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 7848@LAPTOP-23DDAC9C
+
+[2019-03-18 02:13:31 #2 store] 
+Configuration path: ?
+
+[2019-03-18 02:13:31 #3 type] 
+Type entidades.Produto is not enhanced.
+
+[2019-03-18 02:13:31 #4 type] 
+Type entidades.ItemVenda is not enhanced.
+
+[2019-03-18 02:13:31 #5 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 02:13:31 #6 type] 
+Type entidades.Vendedor is not enhanced.
+
+[2019-03-18 02:13:31 #7 type] 
+Type entidades.Venda is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 02:14:07 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 7120@LAPTOP-23DDAC9C
+
+[2019-03-18 02:14:07 #2 store] 
+Configuration path: ?
+
+[2019-03-18 02:14:07 #3 type] 
+Type entidades.Produto is not enhanced.
+
+[2019-03-18 02:14:07 #4 type] 
+Type entidades.ItemVenda is not enhanced.
+
+[2019-03-18 02:14:07 #5 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 02:14:07 #6 type] 
+Type entidades.Vendedor is not enhanced.
+
+[2019-03-18 02:14:07 #7 type] 
+Type entidades.Venda is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 10:57:53 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 10284@LAPTOP-23DDAC9C
+
+[2019-03-18 10:57:53 #2 store] 
+Configuration path: ?
+
+[2019-03-18 10:57:54 #3 type] 
+Type entidades.Produto is not enhanced.
+
+[2019-03-18 10:57:54 #4 type] 
+Type entidades.ItemVenda is not enhanced.
+
+[2019-03-18 10:57:54 #5 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 10:57:54 #6 type] 
+Type entidades.Vendedor is not enhanced.
+
+[2019-03-18 10:57:54 #7 type] 
+Type entidades.Venda is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 11:01:52 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 11556@LAPTOP-23DDAC9C
+
+[2019-03-18 11:01:52 #2 store] 
+Configuration path: ?
+
+[2019-03-18 11:01:52 #3 type] 
+Type entidades.Produto is not enhanced.
+
+[2019-03-18 11:01:52 #4 type] 
+Type entidades.ItemVenda is not enhanced.
+
+[2019-03-18 11:01:52 #5 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 11:01:52 #6 type] 
+Type entidades.Vendedor is not enhanced.
+
+[2019-03-18 11:01:52 #7 type] 
+Type entidades.Venda is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 11:03:44 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 2156@LAPTOP-23DDAC9C
+
+[2019-03-18 11:03:44 #2 store] 
+Configuration path: ?
+
+[2019-03-18 11:03:44 #3 type] 
+Type entidades.Produto is not enhanced.
+
+[2019-03-18 11:03:44 #4 type] 
+Type entidades.ItemVenda is not enhanced.
+
+[2019-03-18 11:03:44 #5 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 11:03:44 #6 type] 
+Type entidades.Vendedor is not enhanced.
+
+[2019-03-18 11:03:44 #7 type] 
+Type entidades.Venda is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 11:17:14 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' has been recovered (tr. 22-22)
+
+[2019-03-18 11:17:14 #2 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 14416@LAPTOP-23DDAC9C
+
+[2019-03-18 11:17:14 #3 store] 
+Configuration path: ?
+
+[2019-03-18 11:17:14 #4 type] 
+Type entidades.Produto is not enhanced.
+
+[2019-03-18 11:17:14 #5 type] 
+Type entidades.ItemVenda is not enhanced.
+
+[2019-03-18 11:17:14 #6 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 11:17:14 #7 type] 
+Type entidades.Vendedor is not enhanced.
+
+[2019-03-18 11:17:14 #8 type] 
+Type entidades.Venda is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 11:22:07 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 15888@LAPTOP-23DDAC9C
+
+[2019-03-18 11:22:07 #2 store] 
+Configuration path: ?
+
+[2019-03-18 11:22:07 #3 type] 
+Type entidades.Produto is not enhanced.
+
+[2019-03-18 11:22:07 #4 type] 
+Type entidades.ItemVenda is not enhanced.
+
+[2019-03-18 11:22:07 #5 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 11:22:07 #6 type] 
+Type entidades.Vendedor is not enhanced.
+
+[2019-03-18 11:22:07 #7 type] 
+Type entidades.Venda is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 11:28:11 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' has been recovered (tr. 23-28)
+
+[2019-03-18 11:28:11 #2 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 13504@LAPTOP-23DDAC9C
+
+[2019-03-18 11:28:11 #3 store] 
+Configuration path: ?
+
+[2019-03-18 11:28:11 #4 type] 
+Type entidades.Produto is not enhanced.
+
+[2019-03-18 11:28:11 #5 type] 
+Type entidades.ItemVenda is not enhanced.
+
+[2019-03-18 11:28:11 #6 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 11:28:11 #7 type] 
+Type entidades.Vendedor is not enhanced.
+
+[2019-03-18 11:28:11 #8 type] 
+Type entidades.Venda is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 11:30:15 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' has been recovered (tr. 29-29)
+
+[2019-03-18 11:30:15 #2 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 9384@LAPTOP-23DDAC9C
+
+[2019-03-18 11:30:15 #3 store] 
+Configuration path: ?
+
+[2019-03-18 11:30:16 #4 type] 
+Type entidades.Produto is not enhanced.
+
+[2019-03-18 11:30:16 #5 type] 
+Type entidades.ItemVenda is not enhanced.
+
+[2019-03-18 11:30:16 #6 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 11:30:16 #7 type] 
+Type entidades.Vendedor is not enhanced.
+
+[2019-03-18 11:30:16 #8 type] 
+Type entidades.Venda is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 11:41:12 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' has been recovered (tr. 30-30)
+
+[2019-03-18 11:41:12 #2 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 5168@LAPTOP-23DDAC9C
+
+[2019-03-18 11:41:12 #3 store] 
+Configuration path: ?
+
+[2019-03-18 11:41:12 #4 type] 
+Type entidades.Produto is not enhanced.
+
+[2019-03-18 11:41:12 #5 type] 
+Type entidades.ItemVenda is not enhanced.
+
+[2019-03-18 11:41:12 #6 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 11:41:12 #7 type] 
+Type entidades.Vendedor is not enhanced.
+
+[2019-03-18 11:41:12 #8 type] 
+Type entidades.Venda is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 11:42:00 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' has been recovered (tr. 31-31)
+
+[2019-03-18 11:42:00 #2 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 7212@LAPTOP-23DDAC9C
+
+[2019-03-18 11:42:00 #3 store] 
+Configuration path: ?
+
+[2019-03-18 11:42:00 #4 type] 
+Type entidades.Produto is not enhanced.
+
+[2019-03-18 11:42:00 #5 type] 
+Type entidades.ItemVenda is not enhanced.
+
+[2019-03-18 11:42:00 #6 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 11:42:00 #7 type] 
+Type entidades.Vendedor is not enhanced.
+
+[2019-03-18 11:42:00 #8 type] 
+Type entidades.Venda is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 11:42:55 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 11648@LAPTOP-23DDAC9C
+
+[2019-03-18 11:42:55 #2 store] 
+Configuration path: ?
+
+[2019-03-18 11:42:55 #3 type] 
+Type entidades.Produto is not enhanced.
+
+[2019-03-18 11:42:55 #4 type] 
+Type entidades.ItemVenda is not enhanced.
+
+[2019-03-18 11:42:55 #5 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 11:42:55 #6 type] 
+Type entidades.Vendedor is not enhanced.
+
+[2019-03-18 11:42:55 #7 type] 
+Type entidades.Venda is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 11:44:34 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 2616@LAPTOP-23DDAC9C
+
+[2019-03-18 11:44:34 #2 store] 
+Configuration path: ?
+
+[2019-03-18 11:44:35 #3 type] 
+Type entidades.Produto is not enhanced.
+
+[2019-03-18 11:44:35 #4 type] 
+Type entidades.ItemVenda is not enhanced.
+
+[2019-03-18 11:44:35 #5 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 11:44:35 #6 type] 
+Type entidades.Vendedor is not enhanced.
+
+[2019-03-18 11:44:35 #7 type] 
+Type entidades.Venda is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 11:45:53 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 14856@LAPTOP-23DDAC9C
+
+[2019-03-18 11:45:54 #2 store] 
+Configuration path: ?
+
+[2019-03-18 11:45:54 #3 type] 
+Type entidades.Produto is not enhanced.
+
+[2019-03-18 11:45:54 #4 type] 
+Type entidades.ItemVenda is not enhanced.
+
+[2019-03-18 11:45:54 #5 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 11:45:54 #6 type] 
+Type entidades.Vendedor is not enhanced.
+
+[2019-03-18 11:45:54 #7 type] 
+Type entidades.Venda is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 11:50:07 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 11792@LAPTOP-23DDAC9C
+
+[2019-03-18 11:50:07 #2 store] 
+Configuration path: ?
+
+[2019-03-18 11:50:07 #3 type] 
+Type entidades.Produto is not enhanced.
+
+[2019-03-18 11:50:07 #4 type] 
+Type entidades.ItemVenda is not enhanced.
+
+[2019-03-18 11:50:07 #5 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 11:50:07 #6 type] 
+Type entidades.Vendedor is not enhanced.
+
+[2019-03-18 11:50:07 #7 type] 
+Type entidades.Venda is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 11:52:28 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 9564@LAPTOP-23DDAC9C
+
+[2019-03-18 11:52:28 #2 store] 
+Configuration path: ?
+
+[2019-03-18 11:52:28 #3 type] 
+Type entidades.Produto is not enhanced.
+
+[2019-03-18 11:52:28 #4 type] 
+Type entidades.ItemVenda is not enhanced.
+
+[2019-03-18 11:52:28 #5 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 11:52:28 #6 type] 
+Type entidades.Vendedor is not enhanced.
+
+[2019-03-18 11:52:28 #7 type] 
+Type entidades.Venda is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 13:53:15 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' has been recovered (tr. 32-32)
+
+[2019-03-18 13:53:20 #2 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 10192@LAPTOP-23DDAC9C
+
+[2019-03-18 13:53:20 #3 store] 
+Configuration path: ?
+
+[2019-03-18 13:53:20 #4 type] 
+Type entidades.Produto is not enhanced.
+
+[2019-03-18 13:53:20 #5 type] 
+Type entidades.ItemVenda is not enhanced.
+
+[2019-03-18 13:53:20 #6 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 13:53:20 #7 type] 
+Type entidades.Vendedor is not enhanced.
+
+[2019-03-18 13:53:20 #8 type] 
+Type entidades.Venda is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 14:14:32 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' has been recovered (tr. 33-33)
+
+[2019-03-18 14:14:32 #2 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 14180@LAPTOP-23DDAC9C
+
+[2019-03-18 14:14:32 #3 store] 
+Configuration path: ?
+
+[2019-03-18 14:14:32 #4 type] 
+Type entidades.Produto is not enhanced.
+
+[2019-03-18 14:14:32 #5 type] 
+Type entidades.ItemVenda is not enhanced.
+
+[2019-03-18 14:14:32 #6 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 14:14:32 #7 type] 
+Type entidades.Vendedor is not enhanced.
+
+[2019-03-18 14:14:32 #8 type] 
+Type entidades.Venda is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 17:06:03 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' has been recovered (tr. 34-35)
+
+[2019-03-18 17:06:08 #2 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 15368@LAPTOP-23DDAC9C
+
+[2019-03-18 17:06:08 #3 store] 
+Configuration path: ?
+
+[2019-03-18 17:06:08 #4 type] 
+Type entidades.Produto is not enhanced.
+
+[2019-03-18 17:06:08 #5 type] 
+Type entidades.ItemVenda is not enhanced.
+
+[2019-03-18 17:06:08 #6 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 17:06:08 #7 type] 
+Type entidades.Vendedor is not enhanced.
+
+[2019-03-18 17:06:08 #8 type] 
+Type entidades.Venda is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 17:07:04 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 16624@LAPTOP-23DDAC9C
+
+[2019-03-18 17:07:04 #2 store] 
+Configuration path: ?
+
+[2019-03-18 17:07:09 #3 type] 
+Type entidades.Produto is not enhanced.
+
+[2019-03-18 17:07:09 #4 type] 
+Type entidades.ItemVenda is not enhanced.
+
+[2019-03-18 17:07:09 #5 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 17:07:09 #6 type] 
+Type entidades.Vendedor is not enhanced.
+
+[2019-03-18 17:07:09 #7 type] 
+Type entidades.Venda is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 17:10:33 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 4152@LAPTOP-23DDAC9C
+
+[2019-03-18 17:10:33 #2 store] 
+Configuration path: ?
+
+[2019-03-18 17:10:42 #3 type.registry] 
+New type entidades.Produto
+
+[2019-03-18 17:10:42 #4 type] 
+Type entidades.Produto is not enhanced.
+
+[2019-03-18 17:10:42 #5 type.registry] 
+New type entidades.ItemVenda
+
+[2019-03-18 17:10:42 #6 type] 
+Type entidades.ItemVenda is not enhanced.
+
+[2019-03-18 17:10:42 #7 type.registry] 
+New type entidades.Cliente
+
+[2019-03-18 17:10:42 #8 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 17:10:42 #9 type.registry] 
+New type entidades.Vendedor
+
+[2019-03-18 17:10:42 #10 type] 
+Type entidades.Vendedor is not enhanced.
+
+[2019-03-18 17:10:42 #11 type.registry] 
+New type entidades.Venda
+
+[2019-03-18 17:10:42 #12 type] 
+Type entidades.Venda is not enhanced.
+
+[2019-03-18 17:10:42 #13 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2019-03-18 17:10:42 #14 type.registry] 
+New type java.util.LinkedList<entidades.ItemVenda>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 17:14:24 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' has been recovered (tr. 1-16)
+
+[2019-03-18 17:14:24 #2 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 10588@LAPTOP-23DDAC9C
+
+[2019-03-18 17:14:24 #3 store] 
+Configuration path: ?
+
+[2019-03-18 17:14:24 #4 type] 
+Type entidades.Produto is not enhanced.
+
+[2019-03-18 17:14:24 #5 type] 
+Type entidades.ItemVenda is not enhanced.
+
+[2019-03-18 17:14:24 #6 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 17:14:24 #7 type] 
+Type entidades.Vendedor is not enhanced.
+
+[2019-03-18 17:14:24 #8 type] 
+Type entidades.Venda is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 17:18:26 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 12868@LAPTOP-23DDAC9C
+
+[2019-03-18 17:18:26 #2 store] 
+Configuration path: ?
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 17:25:10 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 9720@LAPTOP-23DDAC9C
+
+[2019-03-18 17:25:10 #2 store] 
+Configuration path: ?
+
+[2019-03-18 17:25:17 #3 type.registry] 
+New type entidades.Venda
+
+[2019-03-18 17:25:17 #4 type] 
+Type entidades.Venda is not enhanced.
+
+[2019-03-18 17:25:17 #5 type.registry] 
+New type entidades.ItemVenda
+
+[2019-03-18 17:25:17 #6 type.registry] 
+New type entidades.Vendedor
+
+[2019-03-18 17:25:17 #7 type.registry] 
+New type entidades.Cliente
+
+[2019-03-18 17:25:17 #8 type] 
+Type entidades.ItemVenda is not enhanced.
+
+[2019-03-18 17:25:17 #9 type.registry] 
+New type entidades.Produto
+
+[2019-03-18 17:25:17 #10 type] 
+Type entidades.Vendedor is not enhanced.
+
+[2019-03-18 17:25:17 #11 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 17:25:17 #12 type] 
+Type entidades.Produto is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 17:29:43 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 1392@LAPTOP-23DDAC9C
+
+[2019-03-18 17:29:43 #2 store] 
+Configuration path: ?
+
+[2019-03-18 17:29:44 #3 type] 
+Type entidades.Venda is not enhanced.
+
+[2019-03-18 17:29:44 #4 type] 
+Type entidades.ItemVenda is not enhanced.
+
+[2019-03-18 17:29:44 #5 type] 
+Type entidades.Vendedor is not enhanced.
+
+[2019-03-18 17:29:44 #6 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 17:29:44 #7 type] 
+Type entidades.Produto is not enhanced.
+
+[2019-03-18 17:30:58 #8 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2019-03-18 17:30:58 #9 type.registry] 
+New type java.util.LinkedList<entidades.ItemVenda>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 17:35:41 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 4344@LAPTOP-23DDAC9C
+
+[2019-03-18 17:35:46 #2 store] 
+Configuration path: ?
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-18 17:50:48 #1 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' has been recovered (tr. 1-2)
+
+[2019-03-18 17:50:58 #2 store] 
+Database 'C:\Users\mark_\OneDrive\Área de Trabalho\Faculdade\Terceiro Ano\Quinto semestre\Banco de Dados III\Vendas JPA\bancoProjeto\db\Vendas.odb' is opened by 11852@LAPTOP-23DDAC9C
+
+[2019-03-18 17:50:58 #3 store] 
+Configuration path: ?
+
+[2019-03-18 17:51:03 #4 type.registry] 
+New type entidades.Cliente
+
+[2019-03-18 17:51:03 #5 type] 
+Type entidades.Cliente is not enhanced.
+
+[2019-03-18 17:51:58 #6 type.registry] 
+New type entidades.Produto
+
+[2019-03-18 17:51:58 #7 type] 
+Type entidades.Produto is not enhanced.
+
+[2019-03-18 17:52:16 #8 type.registry] 
+New type entidades.Venda
+
+[2019-03-18 17:52:16 #9 type] 
+Type entidades.Venda is not enhanced.
+
+[2019-03-18 17:52:16 #10 type.registry] 
+New type entidades.ItemVenda
+
+[2019-03-18 17:52:16 #11 type.registry] 
+New type entidades.Vendedor
+
+[2019-03-18 17:52:16 #12 type] 
+Type entidades.ItemVenda is not enhanced.
+
+[2019-03-18 17:52:16 #13 type] 
+Type entidades.Vendedor is not enhanced.
+
+[2019-03-18 17:52:21 #14 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2019-03-18 17:52:21 #15 type.registry] 
+New type java.util.LinkedList<entidades.ItemVenda>
+
